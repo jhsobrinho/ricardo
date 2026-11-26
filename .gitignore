@@ -1,0 +1,23 @@
+# dados sensíveis — NÃO subir para o GitHub
+extratos.db
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.ogg
+*.mp3
+*.wav
+relatorios/
+
+# python / build
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec.bak
+.venv/
+venv/
+
+# outros
+$RECYCLE.BIN/
+.DS_Store
